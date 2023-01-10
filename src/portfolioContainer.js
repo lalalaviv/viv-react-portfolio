@@ -166,7 +166,7 @@ class PortfolioContainer extends PureComponent {
 
   RightBar(){
     return <div className="emailLine">
-            <div className="email"><span onClick={()=> this.addTab("Contact")}>Sienna_Li</span></div>
+            <div className="email"><span onClick={()=> this.addTab("Contact")}>Vivian Lee</span></div>
            </div>
   }
 
@@ -197,7 +197,7 @@ class PortfolioContainer extends PureComponent {
         inView = {this.state.tabs[0].displayed}>   
       </Terminal>
       {this.DisplayCurrentWindow()}
-      <a href="https://github.com/siennameow/portfolio-4.0" target="_blank" id="footer" rel="noreferrer">©️2022 | Made with 💛 by Sienna Li</a>
+      <a href="https://github.com/lalalaviv/viv-react-portfolio.git" target="_blank" id="footer" rel="noreferrer">©️2023 | Made by VIVIAN LEE</a>
     </div>
     );
   }
