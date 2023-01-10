@@ -5,7 +5,7 @@
 //WHEN I enter text into the email address field
 //THEN I receive a notification if I have entered an invalid email address
 import React, { useState } from "react";
-import "./ContactMe.css";
+import "./contact.css";
 import "../../Terminals/Terminal.css";
 import { validateEmail, validateText } from "../../Resources/util/helpers";
 

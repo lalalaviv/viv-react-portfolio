@@ -6,7 +6,7 @@ import styles from './App.css';
 
 import Terminal from'./Terminals/Terminal'
 import About from './Components/About/About';
-import ContactMe from './Components/ContactMe/ContactMe';
+import ContactMe from './Components/contact/contact';
 import Experience from './Components/Experience/Experience';
 import Work from './Components/Work/Work';
 import Footer from './Components/Footer'
