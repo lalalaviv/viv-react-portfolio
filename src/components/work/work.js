@@ -3,12 +3,12 @@ import "./Work.css";
 import "../../Terminals/Terminal.css";
 import ProjectCard from "./ProjectCard";
 import { Container, Row, Col } from "react-bootstrap";
-import passwordGenerator from './assets/images/passwordGenerator.png';
-import codeQuiz from './assets/images/codeQuiz.png';
-import workDayScheduler from './assets/images/workDayScheduler.png';
-import weatherDashboard from './assets/images/weatherDashboard.png';
-import noteTaker from './assets/images/noteTaker.png';
-import theTraveller from './assets/images/theTraveller.png';
+import passwordGenerator from '../../Resources/images/passwordGenerator.png';
+import codeQuiz from '../../Resources/images/codeQuiz.png';
+import workDayScheduler from '../../Resources/images/workDayScheduler.png';
+import weatherDashboard from '../../Resources/images/weatherDashboard.png';
+import noteTaker from '../../Resources/images/noteTaker.png';
+import theTraveller from '../../Resources/images/theTraveller.png';
 const Work = () => {
   // const [showAllRepos,toggleShowAllRepos] = useToggle(false);
   return (
