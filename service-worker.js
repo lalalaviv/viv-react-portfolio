@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/viv-react-portfolio.git/precache-manifest.cfd3bcd30e615dc84b32aad175417236.js"
+  "/viv-react-portfolio.git/precache-manifest.cb37cee78745574bbec9fdefe622b8ee.js"
 );
 
 self.addEventListener('message', (event) => {

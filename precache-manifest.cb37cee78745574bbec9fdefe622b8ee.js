@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89b622eabd480f2e9e445eef5c89f9ba",
+    "revision": "4d10c34a8ab41a4384bd445d9bc27381",
     "url": "/viv-react-portfolio.git/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viv-react-portfolio.git/static/css/2.80f479d8.chunk.css"
   },
   {
-    "revision": "8bfa85b1abe8bece3a3b",
-    "url": "/viv-react-portfolio.git/static/css/main.b7bec8b5.chunk.css"
+    "revision": "bcba94e70851da267a8a",
+    "url": "/viv-react-portfolio.git/static/css/main.55b2dfa6.chunk.css"
   },
   {
     "revision": "d1a5f588449b0b1b87e8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viv-react-portfolio.git/static/js/2.e6c474ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bfa85b1abe8bece3a3b",
-    "url": "/viv-react-portfolio.git/static/js/main.2112d907.chunk.js"
+    "revision": "bcba94e70851da267a8a",
+    "url": "/viv-react-portfolio.git/static/js/main.5fefaa27.chunk.js"
   },
   {
     "revision": "085c24680a0cbc538c4d",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viv-react-portfolio.git/static/media/passwordGenerator.0d55b663.png"
   },
   {
-    "revision": "93b9742d0a00a0357dc04879d2994c1b",
-    "url": "/viv-react-portfolio.git/static/media/resume.93b9742d.pdf"
+    "revision": "c1221ca080e99c490e7bfccd1f294aba",
+    "url": "/viv-react-portfolio.git/static/media/resume.c1221ca0.png"
   },
   {
     "revision": "4d1708ceb24970833fc0088f8f100cd2",
