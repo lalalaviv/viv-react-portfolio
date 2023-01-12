@@ -2,14 +2,14 @@
 //Render the page and Navbar
 import React, { PureComponent } from 'react';
 import classNames from 'classnames/bind';
-import styles from './App.css';
+import styles from './app.css';
 
 import Terminal from'./Terminals/Terminal'
-import About from './Components/About/About';
+import About from './Components/about/about';
 import ContactMe from './Components/contact/contact';
-import Experience from './Components/Experience/Experience';
-import Work from './Components/Work/Work';
-import Footer from './Components/Footer'
+import Experience from './Components/experience/experience';
+import Work from './Components/work/work';
+import Footer from './Components/footer'
 
 class PortfolioContainer extends PureComponent {
   state = {

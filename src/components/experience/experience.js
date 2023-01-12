@@ -2,7 +2,7 @@
 //THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 
 import React from 'react';
-import './Experience.css';
+import './experience.css';
 import '../../Terminals/Terminal.css'
 import resume from '../../Resources/util/resume.pdf'
 const Experience = () =>{

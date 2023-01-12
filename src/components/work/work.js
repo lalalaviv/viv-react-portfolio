@@ -1,7 +1,7 @@
 import React from "react";
-import "./Work.css";
+import "./work.css";
 import "../../Terminals/Terminal.css";
-import ProjectCard from "./ProjectCard";
+import ProjectCard from "./projectCard";
 import { Container, Row, Col } from "react-bootstrap";
 import passwordGenerator from '../../Resources/images/passwordGenerator.png';
 import codeQuiz from '../../Resources/images/codeQuiz.png';
