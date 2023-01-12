@@ -4,6 +4,7 @@
 import React from 'react';
 import './about.css';
 import '../../Terminals/Terminal.css';
+import avatar from '../../Resources/images/avatar'
 
 const About = () => {
 return(
