@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/viv-react-portfolio.git/static/css/main.b7bec8b5.chunk.css",
+    "main.js": "/viv-react-portfolio.git/static/js/main.2112d907.chunk.js",
+    "main.js.map": "/viv-react-portfolio.git/static/js/main.2112d907.chunk.js.map",
+    "runtime-main.js": "/viv-react-portfolio.git/static/js/runtime-main.cf923a9b.js",
+    "runtime-main.js.map": "/viv-react-portfolio.git/static/js/runtime-main.cf923a9b.js.map",
+    "static/css/2.80f479d8.chunk.css": "/viv-react-portfolio.git/static/css/2.80f479d8.chunk.css",
+    "static/js/2.e6c474ee.chunk.js": "/viv-react-portfolio.git/static/js/2.e6c474ee.chunk.js",
+    "static/js/2.e6c474ee.chunk.js.map": "/viv-react-portfolio.git/static/js/2.e6c474ee.chunk.js.map",
+    "index.html": "/viv-react-portfolio.git/index.html",
+    "precache-manifest.cfd3bcd30e615dc84b32aad175417236.js": "/viv-react-portfolio.git/precache-manifest.cfd3bcd30e615dc84b32aad175417236.js",
+    "service-worker.js": "/viv-react-portfolio.git/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/viv-react-portfolio.git/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.b7bec8b5.chunk.css.map": "/viv-react-portfolio.git/static/css/main.b7bec8b5.chunk.css.map",
+    "static/js/2.e6c474ee.chunk.js.LICENSE.txt": "/viv-react-portfolio.git/static/js/2.e6c474ee.chunk.js.LICENSE.txt",
+    "static/media/Terminal.css": "/viv-react-portfolio.git/static/media/2_lines.319b3c1c.woff",
+    "static/media/About.css": "/viv-react-portfolio.git/static/media/avatar.897a2216.jpg",
+    "static/media/codeQuiz.png": "/viv-react-portfolio.git/static/media/codeQuiz.761402ba.png",
+    "static/media/github.617870e4.svg": "/viv-react-portfolio.git/static/media/github.617870e4.svg",
+    "static/media/instagram.662a4f14.svg": "/viv-react-portfolio.git/static/media/instagram.662a4f14.svg",
+    "static/media/linkedin.619231ff.svg": "/viv-react-portfolio.git/static/media/linkedin.619231ff.svg",
+    "static/media/noteTaker.png": "/viv-react-portfolio.git/static/media/noteTaker.a3b80f26.png",
+    "static/media/passwordGenerator.png": "/viv-react-portfolio.git/static/media/passwordGenerator.0d55b663.png",
+    "static/media/resume.pdf": "/viv-react-portfolio.git/static/media/resume.93b9742d.pdf",
+    "static/media/theTraveller.png": "/viv-react-portfolio.git/static/media/theTraveller.4d1708ce.png",
+    "static/media/weatherDashboard.png": "/viv-react-portfolio.git/static/media/weatherDashboard.19f4f7c5.png",
+    "static/media/workDayScheduler.png": "/viv-react-portfolio.git/static/media/workDayScheduler.e0c21024.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf923a9b.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.e6c474ee.chunk.js",
+    "static/css/main.b7bec8b5.chunk.css",
+    "static/js/main.2112d907.chunk.js"
+  ]
+}
