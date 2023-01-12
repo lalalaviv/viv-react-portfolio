@@ -10,6 +10,7 @@ This portfolio website is built up with React. It is a fully interactive termina
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
+  - [Mock Up](#mock-up)
   - [Technologies](#technologies)
   - [License](#license)
   - [Questions](#questions)
@@ -52,6 +53,11 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
+
+## Mock Up
+The following image shows the web application's appearance:
+
+![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](../viv-react-portfolio/src/Resources/images/Mockup.png)
 
 ## Technologies 
 - React

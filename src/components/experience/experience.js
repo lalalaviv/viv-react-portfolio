@@ -4,7 +4,7 @@
 import React from 'react';
 import './experience.css';
 import '../../Terminals/Terminal.css'
-import resume from '../../Resources/util/resume.pdf'
+import resume from '../../Resources/util/resume.png'
 const Experience = () =>{
     return(
     <div className = "experience main">
