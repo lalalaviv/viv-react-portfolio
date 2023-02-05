@@ -5,7 +5,7 @@ import {ReactComponent as LINKEDIN} from '../Resources/icons/linkedin.svg'
 const Footer =
 [
     {
-        link : 'https://github.com/lalala.viv',
+        link : 'https://github.com/lalalaviv',
         icon : GITHUB
     },
     {
