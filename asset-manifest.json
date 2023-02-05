@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/viv-react-portfolio/static/css/main.fb759f1b.chunk.css",
-    "main.js": "/viv-react-portfolio/static/js/main.5fefaa27.chunk.js",
-    "main.js.map": "/viv-react-portfolio/static/js/main.5fefaa27.chunk.js.map",
+    "main.js": "/viv-react-portfolio/static/js/main.1ee1460b.chunk.js",
+    "main.js.map": "/viv-react-portfolio/static/js/main.1ee1460b.chunk.js.map",
     "runtime-main.js": "/viv-react-portfolio/static/js/runtime-main.951e0c71.js",
     "runtime-main.js.map": "/viv-react-portfolio/static/js/runtime-main.951e0c71.js.map",
     "static/css/2.80f479d8.chunk.css": "/viv-react-portfolio/static/css/2.80f479d8.chunk.css",
-    "static/js/2.e6c474ee.chunk.js": "/viv-react-portfolio/static/js/2.e6c474ee.chunk.js",
-    "static/js/2.e6c474ee.chunk.js.map": "/viv-react-portfolio/static/js/2.e6c474ee.chunk.js.map",
+    "static/js/2.dafa0a69.chunk.js": "/viv-react-portfolio/static/js/2.dafa0a69.chunk.js",
+    "static/js/2.dafa0a69.chunk.js.map": "/viv-react-portfolio/static/js/2.dafa0a69.chunk.js.map",
     "index.html": "/viv-react-portfolio/index.html",
-    "precache-manifest.f645ad353a8d35f5076ed52c6da79f26.js": "/viv-react-portfolio/precache-manifest.f645ad353a8d35f5076ed52c6da79f26.js",
+    "precache-manifest.4275206f253fb2094532f6269373f855.js": "/viv-react-portfolio/precache-manifest.4275206f253fb2094532f6269373f855.js",
     "service-worker.js": "/viv-react-portfolio/service-worker.js",
     "static/css/2.80f479d8.chunk.css.map": "/viv-react-portfolio/static/css/2.80f479d8.chunk.css.map",
     "static/css/main.fb759f1b.chunk.css.map": "/viv-react-portfolio/static/css/main.fb759f1b.chunk.css.map",
-    "static/js/2.e6c474ee.chunk.js.LICENSE.txt": "/viv-react-portfolio/static/js/2.e6c474ee.chunk.js.LICENSE.txt",
+    "static/js/2.dafa0a69.chunk.js.LICENSE.txt": "/viv-react-portfolio/static/js/2.dafa0a69.chunk.js.LICENSE.txt",
     "static/media/Terminal.css": "/viv-react-portfolio/static/media/2_lines.319b3c1c.woff",
+    "static/media/allearsbunnycafe.png": "/viv-react-portfolio/static/media/allearsbunnycafe.f6496465.png",
     "static/media/about.css": "/viv-react-portfolio/static/media/avatar.897a2216.jpg",
     "static/media/codeQuiz.png": "/viv-react-portfolio/static/media/codeQuiz.761402ba.png",
     "static/media/github.617870e4.svg": "/viv-react-portfolio/static/media/github.617870e4.svg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.951e0c71.js",
     "static/css/2.80f479d8.chunk.css",
-    "static/js/2.e6c474ee.chunk.js",
+    "static/js/2.dafa0a69.chunk.js",
     "static/css/main.fb759f1b.chunk.css",
-    "static/js/main.5fefaa27.chunk.js"
+    "static/js/main.1ee1460b.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c39d24de525db40c1a5e46eda49807a2",
+    "revision": "ea7b1a9b961fe14acdd19f95967522d3",
     "url": "/viv-react-portfolio/index.html"
   },
   {
-    "revision": "d1a5f588449b0b1b87e8",
+    "revision": "5d6d15284e4d2324759d",
     "url": "/viv-react-portfolio/static/css/2.80f479d8.chunk.css"
   },
   {
-    "revision": "cfa666658eace0829a6c",
+    "revision": "e85e87a6fce78ab4a801",
     "url": "/viv-react-portfolio/static/css/main.fb759f1b.chunk.css"
   },
   {
-    "revision": "d1a5f588449b0b1b87e8",
-    "url": "/viv-react-portfolio/static/js/2.e6c474ee.chunk.js"
+    "revision": "5d6d15284e4d2324759d",
+    "url": "/viv-react-portfolio/static/js/2.dafa0a69.chunk.js"
   },
   {
     "revision": "17addde56dada538fe1bc33d341e4ae4",
-    "url": "/viv-react-portfolio/static/js/2.e6c474ee.chunk.js.LICENSE.txt"
+    "url": "/viv-react-portfolio/static/js/2.dafa0a69.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfa666658eace0829a6c",
-    "url": "/viv-react-portfolio/static/js/main.5fefaa27.chunk.js"
+    "revision": "e85e87a6fce78ab4a801",
+    "url": "/viv-react-portfolio/static/js/main.1ee1460b.chunk.js"
   },
   {
     "revision": "2765503bae5653252f10",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "319b3c1c591189cfddfce601a4b1ec56",
     "url": "/viv-react-portfolio/static/media/2_lines.319b3c1c.woff"
+  },
+  {
+    "revision": "f6496465d9f900fb2708bf70f81ec950",
+    "url": "/viv-react-portfolio/static/media/allearsbunnycafe.f6496465.png"
   },
   {
     "revision": "897a221672c8a3996290ac004e9fd80c",
