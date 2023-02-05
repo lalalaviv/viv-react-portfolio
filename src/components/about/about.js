@@ -4,7 +4,7 @@
 import React from 'react';
 import './about.css';
 import '../../Terminals/Terminal.css';
-import avatar from '../../Resources/images/avatar'
+import avatar from '../../Resources/images/avatar.jpg'
 
 const About = () => {
 return(
@@ -20,7 +20,9 @@ return(
                 I would love to design and create something that is simple but also super practical for people to use. 
                 <br/>⠀</p>
             </div>
-            <div className="avatar"></div>
+            <div className="avatar"
+                imgPath={avatar}>
+            </div>
         </div>
     </section>
     );
