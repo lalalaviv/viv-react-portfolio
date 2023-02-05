@@ -3,6 +3,7 @@ import "./work.css";
 import "../../Terminals/Terminal.css";
 import ProjectCard from "./projectCard";
 import { Container, Row, Col } from "react-bootstrap";
+import allEarsBunnyCafe from '../../Resources/images/allearsbunnycafe.png';
 import passwordGenerator from '../../Resources/images/passwordGenerator.png';
 import codeQuiz from '../../Resources/images/codeQuiz.png';
 import workDayScheduler from '../../Resources/images/workDayScheduler.png';
@@ -19,6 +20,15 @@ const Work = () => {
             <h3>Projects I've Built</h3>
           </div>
           <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+              <ProjectCard 
+                 imgPath={allEarsBunnyCafe}
+               title="All Ears Bunny Cafe"
+               description="An e-commerce website designed for All Ears Bunny Cafe."
+               linkApp="https://obscure-reef-77853.herokuapp.com/"
+               linkGithub="https://github.com/lalalaviv/All-Ears-Bunny-Cafe.git"
+              />
+            </Col>
             <Col md={4} className="project-card">
               <ProjectCard 
                  imgPath={passwordGenerator}
